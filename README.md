@@ -21,3 +21,5 @@ To clone: git clone <>
     -> Constly compare to gitlab
     -> Rich prof features
   
+  git fetch:
+   -> Fetches from remote to local
